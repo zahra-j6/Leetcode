@@ -19,6 +19,8 @@ public class Valid_Palindrome {
                return true;
     }
     public static void main(String args[]){
-        System.out.println(isPalindrome("race a a car"));
+
+        System.out.println(isPalindrome("race a a car"));//f
+        System.out.println(isPalindrome("            "));//t
     }
 }

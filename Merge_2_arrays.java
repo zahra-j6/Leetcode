@@ -1,6 +1,8 @@
 package Leetcode;
 
 import java.util.Arrays;
+import java.util.Collections;
+
 //https://leetcode.com/problems/merge-sorted-array/
 //https://leetcode.com/discuss/interview-question/729175/IBM-Back-End-Developer-OA-(Fall-2020)
 public class Merge_2_arrays {
@@ -14,6 +16,7 @@ public class Merge_2_arrays {
             index++;
         }
         Arrays.sort(res);
+
         return res;
     }
     public static void main(String args[]){

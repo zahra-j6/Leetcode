@@ -1,3 +1,5 @@
+package Leetcode;
+
 import java.util.Arrays;
 //https://leetcode.com/problems/squares-of-a-sorted-array/submissions/
 public class Squares_of_a_Sorted_Array {

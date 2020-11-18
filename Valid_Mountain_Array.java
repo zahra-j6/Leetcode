@@ -1,3 +1,5 @@
+package Leetcode;
+
 //https://leetcode.com/problems/valid-mountain-array/submissions/
 public class Valid_Mountain_Array {
     static boolean validMountainArray(int[] A) {

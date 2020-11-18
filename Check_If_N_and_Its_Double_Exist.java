@@ -1,3 +1,5 @@
+package Leetcode;
+
 import java.util.Arrays;
 //https://leetcode.com/problems/check-if-n-and-its-double-exist/submissions/
 public class Check_If_N_and_Its_Double_Exist {
